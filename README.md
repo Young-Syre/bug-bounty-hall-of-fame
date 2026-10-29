@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Bug Bounty Hall of Fame — a curated collection of legendary bug bounty writeups" width="100%">
+</p>
+
 # 🏆 Bug Bounty Hall of Fame
 
 > A curated collection of the **10 coolest, highest-level bug bounty writeups** in security history — the findings that drained (or saved) hundreds of millions, broke new vulnerability classes, and set the standard for the entire industry.
